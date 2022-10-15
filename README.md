@@ -1,3 +1,4 @@
+![logo](https://github.com/rahulsharma100/rahulsharma100/blob/main/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center">We are good at making accurate and right decisions with the help of our special creations called computers.</h3>
 
